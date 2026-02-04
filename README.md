@@ -1,4 +1,3 @@
-# Kai Demo
+# 404 Redirect
 
-Storytelling demonstration in AR.
-
+AVERtek XR License Has Expired.
